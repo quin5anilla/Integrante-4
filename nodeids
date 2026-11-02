@@ -1,0 +1,23 @@
+[
+  "tests/test_api_contract.py::test_health_public",
+  "tests/test_api_contract.py::test_info_ok",
+  "tests/test_api_contract.py::test_info_unauthorized[h0]",
+  "tests/test_api_contract.py::test_info_unauthorized[h1]",
+  "tests/test_api_contract.py::test_info_unauthorized[h2]",
+  "tests/test_api_contract.py::test_info_unauthorized[h3]",
+  "tests/test_api_contract.py::test_limits_accepted",
+  "tests/test_api_contract.py::test_predict_bad_request[body0]",
+  "tests/test_api_contract.py::test_predict_bad_request[body1]",
+  "tests/test_api_contract.py::test_predict_bad_request[body2]",
+  "tests/test_api_contract.py::test_predict_bad_request[body3]",
+  "tests/test_api_contract.py::test_predict_bad_request[body4]",
+  "tests/test_api_contract.py::test_predict_bad_request[body5]",
+  "tests/test_api_contract.py::test_predict_bad_request[body6]",
+  "tests/test_api_contract.py::test_predict_bad_request[body7]",
+  "tests/test_api_contract.py::test_predict_bad_request[body8]",
+  "tests/test_api_contract.py::test_predict_bad_request[body9]",
+  "tests/test_api_contract.py::test_predict_malformed_json",
+  "tests/test_api_contract.py::test_predict_null",
+  "tests/test_api_contract.py::test_predict_ok",
+  "tests/test_api_contract.py::test_predict_requires_auth"
+]

@@ -1,0 +1,6 @@
+SECCION 6 - Model size and latency
+Parametros reales: 66,364,418
+Tamano en disco (MB): 253.9 MB (253.86 MB, unos 265 MB si cuentas en base 1000)
+CPU: Intel Core i7-9750H @ 2.60 GHz, 6 núcleos, 12 hilos
+RAM (GB): 	15.8 GB
+Latencia media CPU: (pendiente, paso 13)
